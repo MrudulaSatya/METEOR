@@ -2,6 +2,6 @@
 This code implements the METEOR metric for automatic machine translation evaluation.
 
 The reference paper used:
-Alon Lavie and Abhaya Agarwal. 2007. Meteor: an automatic metric for mt evaluation with high levels of
-correlation with human judgments. In Proceedings of the Second Workshop on Statistical Machine Translation,
-StatMT ’07, pages 228–231, Stroudsburg, PA, USA. Association for Computational Linguistics.
+Satanjeev Banerjee and Alon Lavie. 2005. METEOR:An Automatic Metric for MT Evaluation with Improved Correlation with Human Judgments.
+In Proceedings of the ACL Workshop on Intrinsic and Extrinsic Evaluation Measures for Machine Translation and/or Summarization,
+pages 65–72, Ann Arbor, Michigan, June.
